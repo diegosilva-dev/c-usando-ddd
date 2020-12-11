@@ -1,1 +1,1 @@
-Aplicação em C3 usando DDD
+Aplicação em C# usando DDD
